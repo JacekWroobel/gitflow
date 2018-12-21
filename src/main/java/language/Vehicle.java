@@ -1,4 +1,4 @@
-package com.dsv.michals.gitflow;
+package language;
 
 public class Vehicle {
 
